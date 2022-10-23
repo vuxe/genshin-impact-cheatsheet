@@ -1,0 +1,308 @@
+{
+    "talents": [
+        {
+            "id": 0,
+            "domains": [
+                {
+                    "id": 1,
+                    "title": "Forsaken Rift",
+                    "book": [
+                        "Freedom",
+                        "Resistance",
+                        "Ballad"
+                    ],
+                    "location": "Mondstadt",
+                    "characters": [
+                        "Amber",
+                        "Barbara",
+                        "Sucrose",
+                        "Klee",
+                        "Diona",
+                        "Tartaglia",
+                        "Aloy",
+                        "Noelle",
+                        "Razor",
+                        "Bennett",
+                        "Mona",
+                        "Jean",
+                        "Diluc",
+                        "Eula",
+                        "Lisa",
+                        "Fischl",
+                        "Kaeya",
+                        "Venti",
+                        "Albedo",
+                        "Rosaria"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Taishan Mansion",
+                    "book": [
+                        "Diligence",
+                        "Prosperity",
+                        "Gold"
+                    ],
+                    "location": "Liyue",
+                    "characters": [
+                        "Ningguang",
+                        "Keqing",
+                        "Qiqi",
+                        "Xiao",
+                        "Shenhe",
+                        "Yelan",
+                        "Xiangling",
+                        "Chongyun",
+                        "Ganyu",
+                        "Hutao",
+                        "Kazuha",
+                        "Yunjin",
+                        "Xingqiu",
+                        "Beidou",
+                        "Xinyan",
+                        "Zhongli",
+                        "Yanfei"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Violet Court",
+                    "book": [
+                        "Transience",
+                        "Elegance",
+                        "Light"
+                    ],
+                    "location": "Inazuma",
+                    "characters": [
+                        "Yoimiya",
+                        "Kokomi",
+                        "Tohma",
+                        "Heizo",
+                        "Ayaka",
+                        "Sara",
+                        "Itto",
+                        "Shinobu",
+                        "Ayato",
+                        "Sayu",
+                        "Shougun",
+                        "Gorou",
+                        "Yae"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Steeple of Ignorance",
+                    "book": [
+                        "Admonition",
+                        "Ingenuity",
+                        "Praxis"
+                    ],
+                    "location": "Sumeru",
+                    "characters": [
+                        "Tighnari",
+                        "Cyno",
+                        "Candace",
+                        "Dori",
+                        "Nahida",
+                        "Layla",
+                        "Collei",
+                        "Nilou"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "domains": [
+                {
+                    "id": 4,
+                    "title": "Forsaken Rift",
+                    "book": [
+                        "Freedom"
+                    ],
+                    "location": "Mondstadt",
+                    "characters": [
+                        "Amber",
+                        "Barbara",
+                        "Sucrose",
+                        "Klee",
+                        "Diona",
+                        "Tartaglia",
+                        "Aloy"
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Taishan Mansion",
+                    "book": [
+                        "Prosperity"
+                    ],
+                    "location": "Liyue",
+                    "characters": [
+                        "Ningguang",
+                        "Keqing",
+                        "Qiqi",
+                        "Xiao",
+                        "Shenhe",
+                        "Yelan"
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Violet Court",
+                    "book": [
+                        "Transience"
+                    ],
+                    "location": "Inazuma",
+                    "characters": [
+                        "Yoimiya",
+                        "Kokomi",
+                        "Tohma",
+                        "Heizo"
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "Steeple of Ignorance",
+                    "book": [
+                        "Admonition"
+                    ],
+                    "location": "Sumeru",
+                    "characters": [
+                        "Tighnari",
+                        "Cyno",
+                        "Candace"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "domains": [
+                {
+                    "id": 5,
+                    "title": "Forsaken Rift",
+                    "book": [
+                        "Resistance"
+                    ],
+                    "location": "Mondstadt",
+                    "characters": [
+                        "Noelle",
+                        "Razor",
+                        "Bennett",
+                        "Mona",
+                        "Jean",
+                        "Diluc",
+                        "Eula"
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Taishan Mansion",
+                    "book": [
+                        "Diligence"
+                    ],
+                    "location": "Liyue",
+                    "characters": [
+                        "Xiangling",
+                        "Chongyun",
+                        "Ganyu",
+                        "Hutao",
+                        "Kazuha",
+                        "Yunjin"
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "Violet Court",
+                    "book": [
+                        "Elegance"
+                    ],
+                    "location": "Inazuma",
+                    "characters": [
+                        "Ayaka",
+                        "Sara",
+                        "Itto",
+                        "Shinobu",
+                        "Ayato"
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "Steeple of Ignorance",
+                    "book": [
+                        "Ingenuity"
+                    ],
+                    "location": "Sumeru",
+                    "characters": [
+                        "Dori",
+                        "Nahida",
+                        "Layla"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "domains": [
+                {
+                    "id": 9,
+                    "title": "Forsaken Rift",
+                    "book": [
+                        "Ballad"
+                    ],
+                    "location": "Mondstadt",
+                    "characters": [
+                        "Lisa",
+                        "Fischl",
+                        "Kaeya",
+                        "Venti",
+                        "Albedo",
+                        "Rosaria"
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "Taishan Mansion",
+                    "book": [
+                        "Gold"
+                    ],
+                    "location": "Liyue",
+                    "characters": [
+                        "Xingqiu",
+                        "Beidou",
+                        "Xinyan",
+                        "Zhongli",
+                        "Yanfei"
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "Violet Court",
+                    "book": [
+                        "Light"
+                    ],
+                    "location": "Inazuma",
+                    "characters": [
+                        "Sayu",
+                        "Shougun",
+                        "Gorou",
+                        "Yae"
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "Steeple of Ignorance",
+                    "book": [
+                        "Praxis"
+                    ],
+                    "location": "Sumeru",
+                    "characters": [
+                        "Collei",
+                        "Nilou"
+                    ]
+                }
+            ]
+        }
+    ]
+}
